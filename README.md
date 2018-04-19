@@ -1,4 +1,4 @@
-$project Title (e.g., code citation)
+Title (e.g., code citation)
 ========
 
 One Paragraph of project description goes here.
